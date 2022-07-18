@@ -6,43 +6,40 @@ namespace HomeWork3
     {
         static void Main()
         {
-            Console.WriteLine("Calculator");
-            Console.WriteLine("----------------------------");
             int a = int.Parse(Console.ReadLine());
             int b = int.Parse(Console.ReadLine());
-            char oper = char.Parse(Console.ReadLine());
             int c;
-            switch (char)
-            {
-            
-                case 1:
-                        {
-                        a = Console.ReadLine();
-                        b = Console.ReadLine();
+            char oper = char.Parse(Console.ReadLine());
+            switch(oper)
+            { 
+                case '+':
+                    {
+                        a = int.Parse(Console.ReadLine());
+                        b = int.Parse(Console.ReadLine());
                         c = a + b;
                         Console.WriteLine(c);
                         break;
                         }
-                case 2:
+                case '-':
                         {
-                        a = Console.ReadLine();
-                        b = Console.ReadLine();
+                        a = int.Parse(Console.ReadLine());
+                        b = int.Parse(Console.ReadLine());
                         c = a - b;
                         Console.WriteLine(c);
                         break;
                         }
-                case 3:
+                case '*':
                         {
-                        a = Console.ReadLine();
-                        b = Console.ReadLine();
+                        a = int.Parse(Console.ReadLine());
+                        b = int.Parse(Console.ReadLine());
                         c = a * b;
                         Console.WriteLine(c);
                         break;
                         }
-                case 4:
+                case '/':
                         {
-                        a = Console.ReadLine();
-                        b = Console.ReadLine();
+                        a = int.Parse(Console.ReadLine());
+                        b = int.Parse(Console.ReadLine());
                         c = a / b;
                         Console.WriteLine(c);
                         break;
