@@ -1,0 +1,14 @@
+C:\Work\C#\Home works\Home work1\HomeworkNikita\bin\Debug\netcoreapp3.1\HomeworkNikita.exe
+C:\Work\C#\Home works\Home work1\HomeworkNikita\bin\Debug\netcoreapp3.1\HomeworkNikita.deps.json
+C:\Work\C#\Home works\Home work1\HomeworkNikita\bin\Debug\netcoreapp3.1\HomeworkNikita.runtimeconfig.json
+C:\Work\C#\Home works\Home work1\HomeworkNikita\bin\Debug\netcoreapp3.1\HomeworkNikita.runtimeconfig.dev.json
+C:\Work\C#\Home works\Home work1\HomeworkNikita\bin\Debug\netcoreapp3.1\HomeworkNikita.dll
+C:\Work\C#\Home works\Home work1\HomeworkNikita\bin\Debug\netcoreapp3.1\HomeworkNikita.pdb
+C:\Work\C#\Home works\Home work1\HomeworkNikita\obj\Debug\netcoreapp3.1\HomeworkNikita.csproj.AssemblyReference.cache
+C:\Work\C#\Home works\Home work1\HomeworkNikita\obj\Debug\netcoreapp3.1\HomeworkNikita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\C#\Home works\Home work1\HomeworkNikita\obj\Debug\netcoreapp3.1\HomeworkNikita.AssemblyInfoInputs.cache
+C:\Work\C#\Home works\Home work1\HomeworkNikita\obj\Debug\netcoreapp3.1\HomeworkNikita.AssemblyInfo.cs
+C:\Work\C#\Home works\Home work1\HomeworkNikita\obj\Debug\netcoreapp3.1\HomeworkNikita.csproj.CoreCompileInputs.cache
+C:\Work\C#\Home works\Home work1\HomeworkNikita\obj\Debug\netcoreapp3.1\HomeworkNikita.dll
+C:\Work\C#\Home works\Home work1\HomeworkNikita\obj\Debug\netcoreapp3.1\HomeworkNikita.pdb
+C:\Work\C#\Home works\Home work1\HomeworkNikita\obj\Debug\netcoreapp3.1\HomeworkNikita.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Work\C#\Home works\Home work1\Home work2 v2\bin\Debug\netcoreapp3.1\Home work2 v2.exe
+C:\Work\C#\Home works\Home work1\Home work2 v2\bin\Debug\netcoreapp3.1\Home work2 v2.deps.json
+C:\Work\C#\Home works\Home work1\Home work2 v2\bin\Debug\netcoreapp3.1\Home work2 v2.runtimeconfig.json
+C:\Work\C#\Home works\Home work1\Home work2 v2\bin\Debug\netcoreapp3.1\Home work2 v2.runtimeconfig.dev.json
+C:\Work\C#\Home works\Home work1\Home work2 v2\bin\Debug\netcoreapp3.1\Home work2 v2.dll
+C:\Work\C#\Home works\Home work1\Home work2 v2\bin\Debug\netcoreapp3.1\Home work2 v2.pdb
+C:\Work\C#\Home works\Home work1\Home work2 v2\obj\Debug\netcoreapp3.1\Home work2 v2.csproj.AssemblyReference.cache
+C:\Work\C#\Home works\Home work1\Home work2 v2\obj\Debug\netcoreapp3.1\Home work2 v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\C#\Home works\Home work1\Home work2 v2\obj\Debug\netcoreapp3.1\Home work2 v2.AssemblyInfoInputs.cache
+C:\Work\C#\Home works\Home work1\Home work2 v2\obj\Debug\netcoreapp3.1\Home work2 v2.AssemblyInfo.cs
+C:\Work\C#\Home works\Home work1\Home work2 v2\obj\Debug\netcoreapp3.1\Home work2 v2.csproj.CoreCompileInputs.cache
+C:\Work\C#\Home works\Home work1\Home work2 v2\obj\Debug\netcoreapp3.1\Home work2 v2.dll
+C:\Work\C#\Home works\Home work1\Home work2 v2\obj\Debug\netcoreapp3.1\Home work2 v2.pdb
+C:\Work\C#\Home works\Home work1\Home work2 v2\obj\Debug\netcoreapp3.1\Home work2 v2.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HomeWorkCalc\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.csproj.AssemblyReference.cache
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HomeWorkCalc\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HomeWorkCalc\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.AssemblyInfoInputs.cache
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HomeWorkCalc\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.AssemblyInfo.cs
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HomeWorkCalc\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.csproj.CoreCompileInputs.cache

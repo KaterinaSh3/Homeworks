@@ -1,0 +1,14 @@
+C:\Work\C#\Home works\Home work1\Wome work2\bin\Debug\netcoreapp3.1\Wome work2.exe
+C:\Work\C#\Home works\Home work1\Wome work2\bin\Debug\netcoreapp3.1\Wome work2.deps.json
+C:\Work\C#\Home works\Home work1\Wome work2\bin\Debug\netcoreapp3.1\Wome work2.runtimeconfig.json
+C:\Work\C#\Home works\Home work1\Wome work2\bin\Debug\netcoreapp3.1\Wome work2.runtimeconfig.dev.json
+C:\Work\C#\Home works\Home work1\Wome work2\bin\Debug\netcoreapp3.1\Wome work2.dll
+C:\Work\C#\Home works\Home work1\Wome work2\bin\Debug\netcoreapp3.1\Wome work2.pdb
+C:\Work\C#\Home works\Home work1\Wome work2\obj\Debug\netcoreapp3.1\Wome work2.csproj.AssemblyReference.cache
+C:\Work\C#\Home works\Home work1\Wome work2\obj\Debug\netcoreapp3.1\Wome work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\C#\Home works\Home work1\Wome work2\obj\Debug\netcoreapp3.1\Wome work2.AssemblyInfoInputs.cache
+C:\Work\C#\Home works\Home work1\Wome work2\obj\Debug\netcoreapp3.1\Wome work2.AssemblyInfo.cs
+C:\Work\C#\Home works\Home work1\Wome work2\obj\Debug\netcoreapp3.1\Wome work2.csproj.CoreCompileInputs.cache
+C:\Work\C#\Home works\Home work1\Wome work2\obj\Debug\netcoreapp3.1\Wome work2.dll
+C:\Work\C#\Home works\Home work1\Wome work2\obj\Debug\netcoreapp3.1\Wome work2.pdb
+C:\Work\C#\Home works\Home work1\Wome work2\obj\Debug\netcoreapp3.1\Wome work2.genruntimeconfig.cache
