@@ -1,0 +1,14 @@
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HoweWork3\HoweWorkCalc\bin\Debug\netcoreapp3.1\HomeWorkCalc.exe
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HoweWork3\HoweWorkCalc\bin\Debug\netcoreapp3.1\HomeWorkCalc.deps.json
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HoweWork3\HoweWorkCalc\bin\Debug\netcoreapp3.1\HomeWorkCalc.runtimeconfig.json
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HoweWork3\HoweWorkCalc\bin\Debug\netcoreapp3.1\HomeWorkCalc.runtimeconfig.dev.json
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HoweWork3\HoweWorkCalc\bin\Debug\netcoreapp3.1\HomeWorkCalc.dll
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HoweWork3\HoweWorkCalc\bin\Debug\netcoreapp3.1\HomeWorkCalc.pdb
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HoweWork3\HoweWorkCalc\obj\Debug\netcoreapp3.1\HomeWorkCalc.csproj.AssemblyReference.cache
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HoweWork3\HoweWorkCalc\obj\Debug\netcoreapp3.1\HomeWorkCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HoweWork3\HoweWorkCalc\obj\Debug\netcoreapp3.1\HomeWorkCalc.AssemblyInfoInputs.cache
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HoweWork3\HoweWorkCalc\obj\Debug\netcoreapp3.1\HomeWorkCalc.AssemblyInfo.cs
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HoweWork3\HoweWorkCalc\obj\Debug\netcoreapp3.1\HomeWorkCalc.csproj.CoreCompileInputs.cache
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HoweWork3\HoweWorkCalc\obj\Debug\netcoreapp3.1\HomeWorkCalc.dll
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HoweWork3\HoweWorkCalc\obj\Debug\netcoreapp3.1\HomeWorkCalc.pdb
+C:\Work\C#\Home works\MyHomeworks\Homeworks\Homework3\HoweWork3\HoweWorkCalc\obj\Debug\netcoreapp3.1\HomeWorkCalc.genruntimeconfig.cache
