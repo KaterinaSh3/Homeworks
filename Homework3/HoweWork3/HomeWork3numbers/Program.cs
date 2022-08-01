@@ -11,11 +11,11 @@ namespace HomeWork3numbers
             int c = int.Parse(Console.ReadLine());
             if (a > 100 && b > 100)
             { 
-                Console.WriteLine($"Each of the numbers A and B is more than 100"); 
+                Console.WriteLine($"Each of the numbers A and B is greater than 100"); 
             }
-            if (a % 2 == 0 | b % 2 == 0)
+            if (a % 2 == 0 ^ b % 2 == 0)
             {
-                Console.WriteLine("Only one of the numbers A and B is even"); //как написать только одно из?
+                Console.WriteLine("Only one of the numbers A and B is even"); //как нписать только одно из?  попробовать переписать от нечетного
             }
             if (a > 0 || b > 0)
             {
