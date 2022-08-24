@@ -30,7 +30,10 @@ namespace Homework6
             Model = model;
             Weight = weight;
         }
+        public Phone()
+        {
 
+        }
 
     }
 }

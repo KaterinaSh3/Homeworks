@@ -9,10 +9,10 @@ namespace Homework5
     {
         static void Main(string[] args)
         {
-            Dictionary <string, int> names = new Dictionary<string, int>
+            Dictionary<string, int> names = new Dictionary<string, int>
         {
             {"Pavel",5 },
-            {"Lisa", 7 },
+            {"Lisa", 3 },
             {"Alena", 10 },
             {"Misha", 8 },
             {"Sasha", 6 }
@@ -56,7 +56,7 @@ Ener 9 for Exit");
                             names.Add(input, mark);
                         }
                         break;
-                    }               
+                    }
                 case menu.Changemark://2
                     {
                         string input = Console.ReadLine();
@@ -64,7 +64,7 @@ Ener 9 for Exit");
                         {
                             Console.WriteLine("Change mark");
                             int mark = int.Parse(Console.ReadLine());
-                            names[input] = mark ;
+                            names[input] = mark;
                         }
                         else
                         {
@@ -115,13 +115,24 @@ Ener 9 for Exit");
                     break;
                 case menu.Beststudents://7
                     {
-                        //for (names bestMarks = 1; bestMarks >= 8; bestMarks++)
-                        //Console.WriteLine(bestMarks);
+                        foreach (KeyValuePair<string, int> mark in names)
+                        {
+                            if (mark.Value >=  8)
+                            {
+                                Console.WriteLine($"key:{mark.Key}-value:{mark.Value}");
+                            }
+                        }
                     }
                     break;
                 case menu.Worsestudents://8
                     {
-
+                        foreach (KeyValuePair<string, int> mark in names)
+                        {
+                            if (mark.Value < 4)
+                            {
+                                Console.WriteLine($"key:{mark.Key}-value:{mark.Value}");
+                            }
+                        }
                     }
                     break;
                 case menu.Close://9
@@ -133,3 +144,4 @@ Ener 9 for Exit");
         }
     }
 }
+
