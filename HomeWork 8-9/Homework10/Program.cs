@@ -7,6 +7,7 @@
 //4. В классе Microwave объявить метод WarmUp, который ничего не возвращает и в качестве параметра 
 //    принимает string (название подогреваемого блюда). Этот метод выводит на консоль "Подогреваю <название блюда>". 
 //    И далее вызывает событие WarmUpCompleted, если оно не равно null.
+
 //5. В классе Program(там где у вас main) создать статический метод WarmUpCompletedHandler, который будет вызываться, 
 //    когда будет срабатывать событие WarmUpCompleted, он должен иметь сигнатуру NotifyWarmUpCompleted, и будет выводить на консоль 
 //    "Ваша еда готова: <название блюда>". 
@@ -15,12 +16,30 @@
 
 namespace Homework10
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Microwave.microwave = new Microwave();
+            microvawe.NotifyWarmUpCompleted(dish);
         }
+
+
+        public static void WarmUpCompletedHandler(string dish)
+        {
+            Console.WriteLine("Ваша еда готова: {dish}");
+            NotifyWarmUpCompleted(dish);
+        }
+
+        private static void NotifyWarmUpCompleted(string dish)
+        {
+            throw new NotImplementedException();
+        }
+
+        
+
+
 
 
     }

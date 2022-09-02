@@ -1,0 +1,14 @@
+C:\Work\C#\Home works\MyHomeworks\Homeworks\HomeWork 8-9\Homework11.1\obj\Debug\netcoreapp3.1\Homework11.1.csproj.AssemblyReference.cache
+C:\Work\C#\Home works\MyHomeworks\Homeworks\HomeWork 8-9\Homework11.1\obj\Debug\netcoreapp3.1\Homework11.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\C#\Home works\MyHomeworks\Homeworks\HomeWork 8-9\Homework11.1\obj\Debug\netcoreapp3.1\Homework11.1.AssemblyInfoInputs.cache
+C:\Work\C#\Home works\MyHomeworks\Homeworks\HomeWork 8-9\Homework11.1\obj\Debug\netcoreapp3.1\Homework11.1.AssemblyInfo.cs
+C:\Work\C#\Home works\MyHomeworks\Homeworks\HomeWork 8-9\Homework11.1\obj\Debug\netcoreapp3.1\Homework11.1.csproj.CoreCompileInputs.cache
+C:\Work\C#\Home works\MyHomeworks\Homeworks\HomeWork 8-9\Homework11.1\bin\Debug\netcoreapp3.1\Homework11.1.exe
+C:\Work\C#\Home works\MyHomeworks\Homeworks\HomeWork 8-9\Homework11.1\bin\Debug\netcoreapp3.1\Homework11.1.deps.json
+C:\Work\C#\Home works\MyHomeworks\Homeworks\HomeWork 8-9\Homework11.1\bin\Debug\netcoreapp3.1\Homework11.1.runtimeconfig.json
+C:\Work\C#\Home works\MyHomeworks\Homeworks\HomeWork 8-9\Homework11.1\bin\Debug\netcoreapp3.1\Homework11.1.runtimeconfig.dev.json
+C:\Work\C#\Home works\MyHomeworks\Homeworks\HomeWork 8-9\Homework11.1\bin\Debug\netcoreapp3.1\Homework11.1.dll
+C:\Work\C#\Home works\MyHomeworks\Homeworks\HomeWork 8-9\Homework11.1\bin\Debug\netcoreapp3.1\Homework11.1.pdb
+C:\Work\C#\Home works\MyHomeworks\Homeworks\HomeWork 8-9\Homework11.1\obj\Debug\netcoreapp3.1\Homework11.1.dll
+C:\Work\C#\Home works\MyHomeworks\Homeworks\HomeWork 8-9\Homework11.1\obj\Debug\netcoreapp3.1\Homework11.1.pdb
+C:\Work\C#\Home works\MyHomeworks\Homeworks\HomeWork 8-9\Homework11.1\obj\Debug\netcoreapp3.1\Homework11.1.genruntimeconfig.cache

@@ -11,29 +11,29 @@ using System.Text;
 namespace Homework10
 
 {
-    internal delegate void NotifyWarmUpCompleted(string dish);
+    //делегат
+    public delegate void NotifyWarmUpCompleted(string dish);
 
     public class Microwave
     {
+        //событие
         public event NotifyWarmUpCompleted WarmUpCompleted;
 
-        public string WarmUp(string dish)
+        //метод
+        public void WarmUp(string dish)
         {
-            Console.WriteLine($"Подогреваю" < dish >);
+            Console.WriteLine($"Подогреваю {dish}" );
+            OnWarmUp(dish);
         }
 
-        protected virtual string WarmUp
+        //вызов события
+        protected virtual void OnWarmUp (string dish)
         {
             if(WarmUpCompleted != null)
             {
-                WarmUpCompleted.Invoke();
+                WarmUpCompleted.Invoke(dish);
             }
-    }
+        }
 
     }
-
-
-
-}
-    
 }
