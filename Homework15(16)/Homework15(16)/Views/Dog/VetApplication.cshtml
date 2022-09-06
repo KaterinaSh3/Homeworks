@@ -1,0 +1,29 @@
+﻿@model DogViewModel
+
+@*
+  4)Создать папку название, которой должно совпадать с названием контроллера(без слова контроллер) в Views.
+  И внутри папки создать вью VetApplication.cshtml.В самом вью нужно создать форму. В этой форме 4 инпута для каждого из полей и кнопку.
+  Не забывайте про @model в самом начале файла и привязать поля к инпутам c помощью asp-for и у кнопки type submit.
+*@
+@{
+}
+<form method="Post">
+    <div>
+        <label>Your Dog's name'</label>
+        <input asp-for="Name"/>
+    </div>
+    <div>
+        <label>Your name</label>
+        <input asp-for="Owner"/>
+    </div>
+    <div>
+        <label>Dod's ages'</label>
+        <input asp-for="Age"/>
+    </div>
+    <div>
+        <label>Dod's weight'</label>
+        <input asp-for="Weight"/>
+    </div>
+    <button type = "submit">Submit</button>
+</form>
+

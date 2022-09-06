@@ -1,6 +1,6 @@
-﻿namespace Homework14
+﻿namespace Homework14.Models
 {
-    public class Book
+    public class BookViewModel
     {
         public string Name { get; set; }
         public string Autory { get; set; }
